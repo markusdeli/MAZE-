@@ -1,0 +1,7 @@
+maze
+*.gch
+*.o
+.cproject
+.project
+.settings/
+doc/html/
